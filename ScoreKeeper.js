@@ -51,3 +51,5 @@ numInput.addEventListener("change", function(){
 reset.addEventListener("click", function(){
 	initialStage();
 });
+
+alert("Develop Mode");
